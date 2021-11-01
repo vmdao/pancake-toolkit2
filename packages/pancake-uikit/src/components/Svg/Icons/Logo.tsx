@@ -19,4 +19,4 @@ const Icon: React.FC<LogoProps> = ({ isDark, ...props }) => {
   );
 };
 
-export default Icon;
+export default React.memo(Icon, (prev, next) => prev.isDark === next.isDark);

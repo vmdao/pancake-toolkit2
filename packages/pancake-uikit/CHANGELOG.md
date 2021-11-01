@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 0.56.1 (2021-11-01)
+
+
+### Bug Fixes
+
+* **server:** Send cors headers ([7cde2b3](https://github.com/vmdao/pancake-toolkit2/commit/7cde2b3173fc9f0d9aa64446eeb084720f461d1b))
+
+
+
+
+
 # 0.56.0 (2021-11-01)
 
 

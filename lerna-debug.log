@@ -1,0 +1,9 @@
+52 error Error: Command failed with exit code 128: git push --follow-tags --no-verify --atomic origin master
+52 error ERROR: Permission to pancakeswap/pancake-toolkit.git denied to vmdao.
+52 error fatal: Could not read from remote repository.
+52 error
+52 error Please make sure you have the correct access rights
+52 error and the repository exists.
+52 error     at makeError (/Users/danvu/Documents/projects/zone-dev/blockchain/cake-tookit2/node_modules/execa/lib/error.js:59:11)
+52 error     at handlePromise (/Users/danvu/Documents/projects/zone-dev/blockchain/cake-tookit2/node_modules/execa/index.js:114:26)
+52 error     at runMicrotasks (<anonymous>)
